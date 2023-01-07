@@ -28,6 +28,7 @@
 		68F14F1829664BE1006BB4DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		68F14F2029664C30006BB4DD /* Challenge1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68F14FB529677D62006BB4DD /* Challenge2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		68F14FDE296921DD006BB4DD /* Challenge3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 			children = (
 				68F14F2029664C30006BB4DD /* Challenge1.playground */,
 				68F14FB529677D62006BB4DD /* Challenge2.playground */,
+				68F14FDE296921DD006BB4DD /* Challenge3.playground */,
 			);
 			path = Strings;
 			sourceTree = "<group>";
