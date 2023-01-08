@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6893A11D296B25D4001D5ABD /* Challenge5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68F14F0529664BDF006BB4DD /* CodingChallenges.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingChallenges.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68F14F0829664BDF006BB4DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68F14F0A29664BDF006BB4DD /* DocumentBrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentBrowserViewController.swift; sourceTree = "<group>"; };
@@ -82,6 +83,7 @@
 				68F14FB529677D62006BB4DD /* Challenge2.playground */,
 				68F14FDE296921DD006BB4DD /* Challenge3.playground */,
 				68F15001296A059F006BB4DD /* Challenge4.playground */,
+				6893A11D296B25D4001D5ABD /* Challenge5.playground */,
 			);
 			path = Strings;
 			sourceTree = "<group>";
