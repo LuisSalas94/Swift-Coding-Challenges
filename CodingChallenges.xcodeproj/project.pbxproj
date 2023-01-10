@@ -20,6 +20,7 @@
 		6893A11D296B25D4001D5ABD /* Challenge5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6893A22A296BC07F001D5ABD /* Challenge6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6893A2A7296CC0D3001D5ABD /* Challenge7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge7.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6893A2BA296D9C3F001D5ABD /* Challenge8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge8.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68F14F0529664BDF006BB4DD /* CodingChallenges.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingChallenges.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68F14F0829664BDF006BB4DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68F14F0A29664BDF006BB4DD /* DocumentBrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentBrowserViewController.swift; sourceTree = "<group>"; };
@@ -88,6 +89,7 @@
 				6893A11D296B25D4001D5ABD /* Challenge5.playground */,
 				6893A22A296BC07F001D5ABD /* Challenge6.playground */,
 				6893A2A7296CC0D3001D5ABD /* Challenge7.playground */,
+				6893A2BA296D9C3F001D5ABD /* Challenge8.playground */,
 			);
 			path = Strings;
 			sourceTree = "<group>";
