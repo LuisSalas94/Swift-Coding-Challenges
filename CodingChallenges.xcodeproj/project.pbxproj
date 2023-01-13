@@ -23,6 +23,9 @@
 		6893A2BA296D9C3F001D5ABD /* Challenge8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge8.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6893A2BB296F0087001D5ABD /* Challenge9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge9.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68C24B5E297078B300AB91A0 /* Challenge10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge10.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		68C24BF6297108C600AB91A0 /* Challenge11.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge11.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		68C24BF7297111C900AB91A0 /* Challenge12.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge12.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		68C24BF92971B7BC00AB91A0 /* Challenge13.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge13.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68F14F0529664BDF006BB4DD /* CodingChallenges.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingChallenges.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68F14F0829664BDF006BB4DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68F14F0A29664BDF006BB4DD /* DocumentBrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentBrowserViewController.swift; sourceTree = "<group>"; };
@@ -49,9 +52,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		68C24BF82971B79000AB91A0 /* Numbers */ = {
+			isa = PBXGroup;
+			children = (
+				68C24BF92971B7BC00AB91A0 /* Challenge13.playground */,
+			);
+			path = Numbers;
+			sourceTree = "<group>";
+		};
 		68F14EFC29664BDF006BB4DD = {
 			isa = PBXGroup;
 			children = (
+				68C24BF82971B79000AB91A0 /* Numbers */,
 				68F14F0729664BDF006BB4DD /* CodingChallenges */,
 				68F14F1F29664C03006BB4DD /* Strings */,
 				68F14F0629664BDF006BB4DD /* Products */,
@@ -94,6 +106,8 @@
 				6893A2BA296D9C3F001D5ABD /* Challenge8.playground */,
 				6893A2BB296F0087001D5ABD /* Challenge9.playground */,
 				68C24B5E297078B300AB91A0 /* Challenge10.playground */,
+				68C24BF6297108C600AB91A0 /* Challenge11.playground */,
+				68C24BF7297111C900AB91A0 /* Challenge12.playground */,
 			);
 			path = Strings;
 			sourceTree = "<group>";
