@@ -26,6 +26,7 @@
 		68C24BF6297108C600AB91A0 /* Challenge11.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge11.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68C24BF7297111C900AB91A0 /* Challenge12.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge12.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68C24BF92971B7BC00AB91A0 /* Challenge13.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge13.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		68C24C1A2971F01900AB91A0 /* Challenge14.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Challenge14.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68F14F0529664BDF006BB4DD /* CodingChallenges.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingChallenges.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68F14F0829664BDF006BB4DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68F14F0A29664BDF006BB4DD /* DocumentBrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentBrowserViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				68C24BF92971B7BC00AB91A0 /* Challenge13.playground */,
+				68C24C1A2971F01900AB91A0 /* Challenge14.playground */,
 			);
 			path = Numbers;
 			sourceTree = "<group>";
